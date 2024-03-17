@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Absent By Design",
+    "imgLink": "https://cdn.modrinth.com/data/6uw892ih/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/absent-by-design"
+  },
+  {
+    "name": "Additional Lanterns",
+    "imgLink": "https://cdn.modrinth.com/data/jXNvTKds/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/additional-lanterns"
+  },
+  {
+    "name": "Advancement Plaques",
+    "imgLink": "https://cdn.modrinth.com/data/9NM0dXub/98833142426918eaa5d722a0134d760b929f3303.png",
+    "Tweaks": "client",
+    "link": "https://modrinth.com/mod/advancement-plaques"
+  },
+  {
+    "name": "Ambient Sounds",
+    "imgLink": "https://cdn.modrinth.com/data/fM515JnW/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/ambientsounds"
+  },
+  {
+    "name": "Anvil Never Too Expensive",
+    "imgLink": "https://cdn.modrinth.com/data/TEOa2X8B/f695ade3f6220a96e446842a9dbd5ac99c9fde3c.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/ante"
+  },
+  {
+    "name": "AppleSkin",
+    "imgLink": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/appleskin"
+  },
+  {
+    "name": "Armor Statues",
+    "imgLink": "https://cdn.modrinth.com/data/bbGCtEvb/3af56adbd84e9dacbc8a39a3b7af0b64ca3a2d16.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/armor-statues"
+  },
+  {
+    "name": "Bartering Station",
+    "imgLink": "https://cdn.modrinth.com/data/EOig9U0j/320cbe8a7409ef0b4928ee174b32b70860eb44a1.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/bartering-station"
+  },
+  {
+    "name": "Beautify!",
+    "imgLink": "https://cdn.modrinth.com/data/9BPuv4vL/c13d3f6a8ea281ecea904e10daa7d4de7147c22c.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/beautify"
+  },
+  {
+    "name": "Bedspreads",
+    "imgLink": "https://cdn.modrinth.com/data/vNNL5mc7/ad8c5bcc846d892dda3388d548e928d0ff590ee0.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/bedspreads"
+  },
+  {
+    "name": "Better Third Person",
+    "imgLink": "https://cdn.modrinth.com/data/G1s2WpNo/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/better-third-person"
+  },
+  {
+    "name": "Biome Music",
+    "imgLink": "",
+    "type": "client",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/biome-music"
+  },
+  {
+    "name": "CERBON's Better Beacons",
+    "imgLink": "https://cdn.modrinth.com/data/gSeQTNSE/a76753bd3eee18ad6f56afd7cc4bcb8d18206cec.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/cerbons-better-beacons"
+  },
+  {
+    "name": "Chimes",
+    "imgLink": "",
+    "type": "server",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/chimes"
+  },
+  {
+    "name": "Comforts",
+    "imgLink": "https://cdn.modrinth.com/data/SaCpeal4/ed4840f0c9a30e04ad88413bd82cd762dd6ec95d.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/comforts"
+  },
+  {
+    "name": "Connectible Chains",
+    "imgLink": "https://cdn.modrinth.com/data/ykSfIgTw/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/connectible_chains"
+  },
+  {
+    "name": "Corpse",
+    "imgLink": "https://cdn.modrinth.com/data/WrpuIfhw/032925a79197e9e23be2c6a07d994b17e3363912.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/corpse"
+  },
+  {
+    "name": "Display Case",
+    "imgLink": "https://cdn.modrinth.com/data/cSIsh4gX/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/displaycase"
+  },
+  {
+    "name": "Easier Sleeping",
+    "imgLink": "https://cdn.modrinth.com/data/yTTpfxdS/76881d364c8d0a3e4ea171a8db761b47d21c05b6.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/easier-sleeping"
+  },
+  {
+    "name": "Easy Magic",
+    "imgLink": "https://cdn.modrinth.com/data/9hx3AbJM/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/easy-magic"
+  },
+  {
+    "name": "Elytra Slot",
+    "imgLink": "https://cdn.modrinth.com/data/mSQF1NpT/b59d48e0111456cac90a18e4edc0b0d9727414a2.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/elytra-slot"
+  },
+  {
+    "name": "Embeddium",
+    "imgLink": "https://cdn.modrinth.com/data/sk9rgfiA/7f5be8843494e3c34bd628143cbb07bc6cbc77f7.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/embeddium"
+  },
+  {
+    "name": "Enchantment Descriptions",
+    "imgLink": "https://cdn.modrinth.com/data/UVtY3ZAC/d02779c67047e42cbc7893577cb9fb8865c785ab.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/enchantment-descriptions"
+  },
+  {
+    "name": "Even Better Amethyst",
+    "imgLink": "https://cdn.modrinth.com/data/od3DqJ7M/8b3dd7ff00c793d3cb4a87d245c579ff9b8ed34f.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/even-better-amethyst"
+  },
+  {
+    "name": "FallingTree",
+    "imgLink": "https://cdn.modrinth.com/data/Fb4jn8m6/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/fallingtree"
+  },
+  {
+    "name": "Faster Ladder Climbing",
+    "imgLink": "",
+    "type": "client",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing"
+  },
+  {
+    "name": "Goblin Traders",
+    "imgLink": "https://cdn.modrinth.com/data/FSUROmV2/icon.png",
+    "type": "server",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/goblin-traders"
+  },
+  {
+    "name": "GravelMiner",
+    "imgLink": "https://cdn.modrinth.com/data/iAzrhsju/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/gravelminer"
+  },
+  {
+    "name": "Immersive Paintings",
+    "imgLink": "https://cdn.modrinth.com/data/6txNkua3/f38482645229d4469a1908aad3e07a46fb4ad333.jpg",
+    "type": "server",
+    "link": "https://modrinth.com/mod/immersive-paintings"
+  },
+  {
+    "name": "Incendium",
+    "imgLink": "https://cdn.modrinth.com/data/ZVzW5oNS/65c8dcaaf260e5b2182c228a1a442c792a7c4782.jpeg",
+    "type": "server",
+    "link": "https://modrinth.com/mod/incendium"
+  },
+  {
+    "name": "Inventory Essentials",
+    "imgLink": "https://cdn.modrinth.com/data/Boon8xwi/469cace78935b118f2c713b44ca9e85efcb42c39.png",
+    "type": "server / client",
+    "link": "https://modrinth.com/mod/inventory-essentials"
+  },
+  {
+    "name": "Jade",
+    "imgLink": "https://cdn.modrinth.com//data/nvQzSEkH/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/jade"
+  },
+  {
+    "name": "JourneyMap",
+    "imgLink": "https://modrinth.com/mod/journeymap",
+    "type": "server / client",
+    "link": "https://modrinth.com/mod/journeymap"
+  },
+  {
+    "name": "Jump Over Fences",
+    "imgLink": "https://cdn.modrinth.com/data/4HeIHvIP/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/jump-over-fences"
+  },
+  {
+    "name": "Just Enough Items",
+    "imgLink": "https://cdn.modrinth.com/data/u6dRKJwZ/565c44deeac2a38cbb6c600b5e002fac59572b88.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/jei"
+  },
+  {
+    "name": "Legendary Tooltips",
+    "imgLink": "https://cdn.modrinth.com/data/atHH8NyV/be363570c1dd3e0954712949ecad2600893bf36f.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/legendary-tooltips"
+  },
+  {
+    "name": "Lootr",
+    "imgLink": "https://cdn.modrinth.com/data/52023362199727/9b801e831ec92e3a46231a6a5acb3074d11192d7.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/lootr"
+  },
+  {
+    "name": "Macaw's Bridges",
+    "imgLink": "https://cdn.modrinth.com/data/GURcjz8O/87a58a540d2671e35ec28fb0e96fb5ae5f775bcb.jpeg",
+    "type": "server",
+    "link": "https://modrinth.com/mod/macaws-bridges"
+  },
+  {
+    "name": "Macaw's Fences and Walls",
+    "imgLink": "https://cdn.modrinth.com/data/GmwLse2I/28e06d4ddbe6fbf5b8eb0ff7b64a9aad1af34e32.png",
+    "type": "server"
+  },
+  {
+    "name": "Macaw's Paintings",
+    "imgLink": "https://cdn.modrinth.com/data/okE6QVAY/445a85d8d37cee75a9aa76b9849037cf47ec3fa8.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/macaws-paintings"
+  },
+  {
+    "name": "Macaw's Windows",
+    "imgLink": "https://cdn.modrinth.com/data/C7I0BCni/da003f3c9283ce37f3f82d83ec76e51e381300c2.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/macaws-windows"
+  },
+  {
+    "name": "More Axolotl Variants Mod",
+    "imgLink": "https://cdn.modrinth.com/data/zitu8weW/a7e00521b65ca69f02ff4a8fe1bff4bc906112e1.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/mavm"
+  },
+  {
+    "name": "Mouse Tweaks",
+    "imgLink": "https://cdn.modrinth.com/data/aC3cM3Vq/icon.jpg",
+    "type": "client",
+    "link": "https://modrinth.com/mod/mouse-tweaks"
+  },
+  {
+    "name": "MrCrayfish's Furniture Mod",
+    "imgLink": "",
+    "type": "server",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod"
+  },
+  {
+    "name": "Not Enough Animations",
+    "imgLink": "https://cdn.modrinth.com/data/MPCX6s5C/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/not-enough-animations"
+  },
+  {
+    "name": "Nullscape",
+    "imgLink": "https://cdn.modrinth.com/data/LPjGiSO4/b6a7489ca6a0fd553870f9d1c24224d0555232d3.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/nullscape"
+  },
+  {
+    "name": "Oculus",
+    "imgLink": "https://cdn.modrinth.com/data/GchcoXML/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/oculus"
+  },
+  {
+    "name": "Ok Zoomer",
+    "imgLink": "https://cdn.modrinth.com/data/aXf2OSFU/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/ok-zoomer"
+  },
+  {
+    "name": "Packing Tape",
+    "imgLink": "",
+    "type": "server",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/packing-tape"
+  },
+  {
+    "name": "Polymorph",
+    "imgLink": "https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/polymorph"
+  },
+  {
+    "name": "Presence Footsteps",
+    "imgLink": "https://cdn.modrinth.com/data/rcTfTZr3/icon.png",
+    "type": "client",
+    "link": "https://modrinth.com/mod/presence-footsteps"
+  },
+  {
+    "name": "Quark",
+    "imgLink": "https://cdn.modrinth.com/data/qnQsVE2z/64151f8964bc6b81d968e814bf7344bbdfad27d0.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/quark"
+  },
+  {
+    "name": "Scaffolding Drops Nearby",
+    "imgLink": "https://cdn.modrinth.com/data/uO522mgw/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/scaffolding-drops-nearby"
+  },
+  {
+    "name": "Scarecrows' Territory",
+    "imgLink": "https://cdn.modrinth.com/data/1RaTTUPz/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/scarecrows-territory"
+  },
+  {
+    "name": "Sophisticated Backpacks",
+    "imgLink": "",
+    "type": "server",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks"
+  },
+  {
+    "name": "Sophisticated Storage",
+    "imgLink": "",
+    "type": "server",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage"
+  },
+  {
+    "name": "Spiky Spikes",
+    "imgLink": "https://cdn.modrinth.com/data/DUaLBLVL/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/spiky-spikes"
+  },
+  {
+    "name": "Stoneworks",
+    "imgLink": "https://cdn.modrinth.com/data/FzyTKtVF/e12a7b3de972261a6ac638e60cc8b10565636977.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/stoneworks"
+  },
+  {
+    "name": "Terralith",
+    "imgLink": "https://cdn.modrinth.com/data/8oi3bsk5/34c751cc804839ed3c1d9f21dfd53d98368fedfc.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/terralith"
+  },
+  {
+    "name": "Towns and Towers",
+    "imgLink": "https://cdn.modrinth.com/data/DjLobEOy/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/towns-and-towers"
+  },
+  {
+    "name": "Trade Cycling",
+    "imgLink": "https://cdn.modrinth.com/data/qpPoAL6m/91dcbfba1d821a7a9248ec8191359d842332cc97.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/trade-cycling"
+  },
+  {
+    "name": "Trading Post",
+    "imgLink": "https://cdn.modrinth.com/data/8pcjMDgj/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/trading-post"
+  },
+  {
+    "name": "Trash Cans",
+    "imgLink": "https://cdn.modrinth.com/data/4QrnfueM/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/trash-cans"
+  },
+  {
+    "name": "Twigs",
+    "imgLink": "https://cdn.modrinth.com/data/RG50cUrX/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/twigs"
+  },
+  {
+    "name": "Universal Bone Meal",
+    "imgLink": "https://cdn.modrinth.com/data/66VIiT1y/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/universal-bone-meal"
+  },
+  {
+    "name": "Universal Enchants",
+    "imgLink": "https://cdn.modrinth.com/data/DT56YDir/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/universal-enchants"
+  },
+  {
+    "name": "Upgraded Netherite",
+    "imgLink": "https://cdn.modrinth.com/data/7seKMZeT/62d61f2a09ab2b71272ddf9b8ac0e941a2152399.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/upgraded-netherite"
+  },
+  {
+    "name": "Upgraded Netherite : Items",
+    "imgLink": "https://cdn.modrinth.com/data/x2OcOwHz/a390efeb5adc0ab6c2bf8738432d87f118073fa8.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/upgraded-netherite-items"
+  },
+  {
+    "name": "Uppers",
+    "imgLink": "",
+    "type": "server",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/uppers"
+  },
+  {
+    "name": "VanillaTweaks",
+    "imgLink": "https://cdn.modrinth.com/data/5DJpA9qi/1a15e8a35c170a2b60e8a98e38657fac4dd67026.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/vanillatweaks"
+  },
+  {
+    "name": "Visual Workbench",
+    "imgLink": "https://cdn.modrinth.com/data/kfqD1JRw/b5609cba027135303ccee5ff1d69fae6ae0d3e33.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/visual-workbench"
+  },
+  {
+    "name": "YUNG's Better Desert Temples",
+    "imgLink": "https://cdn.modrinth.com/data/XNlO7sBv/7c28d323155163f64343670e6553b85e681d7796.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-desert-temples"
+  },
+  {
+    "name": "YUNG's Better Dungeons",
+    "imgLink": "https://cdn.modrinth.com/data/o1C1Dkj5/1f4ac6d7203008cedc2dc998ff1ad6df48732e38.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-dungeons"
+  },
+  {
+    "name": "YUNG's Better End Island",
+    "imgLink": "https://cdn.modrinth.com/data/2BwBOmBQ/e4f0f8d1668eda0f22a87d8771bba8344ebfc4b9.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-end-island"
+  },
+  {
+    "name": "YUNG's Better Jungle Temples",
+    "imgLink": "https://cdn.modrinth.com/data/z9Ve58Ih/4a410457d1eca88ad1d4a2c4e7672fc3014056e4.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-jungle-temples"
+  },
+  {
+    "name": "YUNG's Better Mineshafts",
+    "imgLink": "https://cdn.modrinth.com/data/HjmxVlSr/947b35bc08547e1b16cd51e6fc1c621852ea30c9.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-mineshafts"
+  },
+  {
+    "name": "YUNG's Better Nether Fortresses",
+    "imgLink": "https://cdn.modrinth.com/data/Z2mXHnxP/c89b02a675b204bfbe1d7e494769e425355e23f9.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-nether-fortresses"
+  },
+  {
+    "name": "YUNG's Better Strongholds",
+    "imgLink": "https://cdn.modrinth.com/data/3dT9sgt4/d8c15602c866a1cdddb10caec83e57f8ca33e146.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-strongholds"
+  },
+  {
+    "name": "YUNG's Better Ocean Monuments",
+    "imgLink": "https://cdn.modrinth.com/data/kidLKymU/c3c33be1c8b83ae8f69ba76cf0974cefcc620c47.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/yungs-better-ocean-monuments"
+  }
+]
