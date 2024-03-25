@@ -1,7 +1,9 @@
 <template>
-  <div class="p-10 h-screen overflow-auto">
-    <div>Server Mods</div>
-    <div class="flex-container mt-10">
+  <div>
+    <div style="text-align: center" class="mb-3">
+      <h1 style="font-size: 30px; font-weight: bold">Server Mods</h1>
+    </div>
+    <div class="flex-container">
       <template v-for="mod in mods" :key="mod.name">
         <div v-if="mod.type === 'server'" class="flex-item">
           <ModCard :mod="mod" />
@@ -24,7 +26,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .flex-container {
   display: flex;
   flex-flow: row wrap;

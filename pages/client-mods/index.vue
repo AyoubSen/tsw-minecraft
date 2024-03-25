@@ -1,7 +1,9 @@
 <template>
-  <div class="p-10 h-screen overflow-auto">
-    <div>Client Mods</div>
-    <div class="flex-container mt-10">
+  <div class="">
+    <div style="text-align: center" class="mb-3">
+      <h1 style="font-size: 30px; font-weight: bold">Client Mods</h1>
+    </div>
+    <div class="flex-container">
       <template v-for="mod in mods" :key="mod.name">
         <div v-if="mod.type === 'client'" class="flex-item">
           <ModCard :mod="mod" />
@@ -15,7 +17,7 @@
 import modsData from "@/assets/mods.json";
 
 export default {
-  name: "ServerMods",
+  name: "ClientMods",
   data() {
     return {
       mods: modsData,

@@ -1,33 +1,17 @@
 <template>
-  <div
-    :class="[
-      'Sidebar',
-      'bg-slate-700',
-      'h-screen',
-      minimize ? 'minimized' : '',
-    ]"
-  >
-    <div class="flex items-center justify-between">
-      <img
-        :class="minimize ? '' : 'ml-4'"
-        class="w-12 h-12 logo mt-4 cursor-pointer"
-        src="/public/tswlogo1.png"
-      />
+  <div :class="['Sidebar', 'h-screen', minimize ? 'minimized' : '']">
+    <div class="flex items-center justify-around mt-4">
       <div
-        :class="[
-          'toggleIcon',
-          'cursor-pointer',
-          minimize ? 'mt-4 ' : 'ml-4 mr-4',
-          'mt-4',
-        ]"
+        :class="['toggleIcon', 'cursor-pointer', minimize ? 'mb-4' : '']"
         @click="toggleSidebar"
       >
-        <i
-          :class="
-            minimize ? 'fa-solid fa-chevron-right' : 'fa-solid fa-chevron-left'
-          "
-        ></i>
+        <i class="fa-solid fa-bars" style="font-size: 30px"></i>
       </div>
+      <img
+        :class="minimize ? 'mt-4' : ''"
+        class="w-12 h-12 logo cursor-pointer"
+        src="/public/tswlogo1.png"
+      />
     </div>
     <div class="navList p-3 mt-5">
       <div v-for="item in navList" :key="item.id" class="mb-4">
@@ -38,7 +22,10 @@
           @click="$router.push(item.route)"
         >
           <i :class="item.icon"></i>
-          <span class="ml-2">
+          <span
+            class="ml-2"
+            style="text-overflow: ellipsis; white-space: nowrap"
+          >
             <div>
               {{ item.name }}
             </div></span
@@ -50,11 +37,19 @@
 </template>
 
 <script>
+import { mapWritableState, mapState } from "pinia";
+import { useGlobalStore } from "@/store/store";
+
 export default {
   name: "Sidebar",
+
+  mounted() {
+    this.store = useGlobalStore();
+  },
   data() {
     return {
       minimize: false,
+      store: null,
       navList: [
         {
           id: 0,
@@ -66,6 +61,7 @@ export default {
           id: 1,
           name: "Client Mods",
           route: "/client-mods",
+          icon: "fa-solid fa-desktop",
         },
         {
           id: 3,
@@ -85,6 +81,12 @@ export default {
           route: "/suggestions",
           icon: "fa-solid fa-lightbulb",
         },
+        {
+          id: 6,
+          name: "Tutorial",
+          route: "/tutorial-page",
+          icon: "fa-solid fa-info",
+        },
       ],
     };
   },
@@ -93,20 +95,20 @@ export default {
       this.minimize = !this.minimize;
     },
   },
+  watch: {
+    minimize: function (val) {
+      this.store.setMinimized(val);
+    },
+  },
 };
 </script>
 
-<style>
+<style scoped>
 .Sidebar {
-  transition: width 0.3s ease;
-  width: 200px;
-  display: flex;
-  flex-direction: column;
-  overflow-x: hidden;
+  background: #00cf91;
 }
-
 .Sidebar.minimized {
-  width: 80px;
+  width: 100px;
 }
 
 .Sidebar .flex {
