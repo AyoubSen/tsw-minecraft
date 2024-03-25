@@ -116,7 +116,7 @@ export default {
 }
 
 .navItem:hover {
-  background-color: #2d3748;
+  background-color: #f2f8fd;
   transition: background-color 0.2s ease;
 }
 
@@ -144,10 +144,10 @@ export default {
   align-items: center;
 }
 .active-nav-item {
-  background-color: #4a5568;
+  background-color: #f2f8fd;
 }
 .navItem:active {
-  background-color: #4a5568;
+  background-color: #f2f8fd;
 }
 .navItem {
   color: black;
