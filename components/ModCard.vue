@@ -4,7 +4,8 @@
     class="card p-5 grid place-items-center gap-5 bg-slate-100 rounded-md cursor-pointer w-md"
   >
     <h2 class="text-2xl font-bold">{{ mod.name }}</h2>
-    <img class="w-20 h-20 rounded-full" :src="mod.imgLink" />
+    <img v-if="mod.imgLink" class="w-20 h-20 rounded-full" :src="mod.imgLink" />
+    <i v-else class="fa-regular fa-circle-question" style="font-size: 80px"></i>
   </div>
 </template>
 

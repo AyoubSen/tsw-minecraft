@@ -471,5 +471,11 @@
     "imgLink": "https://cdn.modrinth.com/data/kidLKymU/c3c33be1c8b83ae8f69ba76cf0974cefcc620c47.png",
     "type": "server",
     "link": "https://modrinth.com/mod/yungs-better-ocean-monuments"
+  },
+  {
+    "name": "Better Than Mending",
+    "imgLink": "https://cdn.modrinth.com/data/Lvv4SHrK/icon.png",
+    "type": "server",
+    "link": "https://modrinth.com/mod/better-than-mending/version/1.7.2"
   }
 ]
