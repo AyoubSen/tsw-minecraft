@@ -131,9 +131,46 @@ export default {
           ],
         },
         {
-          date: "20-03-2024",
+          date: "19-03-2024",
           type: "Solo",
           winner: "Pika",
+          teams: [
+            {
+              teammates: "Ayoub",
+              kills: 2,
+              killedBy: "Pika",
+            },
+            {
+              teammates: "Pika",
+              kills: 2,
+              killedBy: "No one",
+            },
+            {
+              teammates: "Yego",
+              kills: 0,
+              killedBy: "Ayoub",
+            },
+            {
+              teammates: "Melda",
+              kills: 0,
+              killedBy: "Pika",
+            },
+            {
+              teammates: "Badr",
+              kills: 0,
+              killedBy: "Ayoub",
+            },
+            {
+              teammates: "Mackroute",
+              kills: 0,
+              killedBy: "Lava",
+            },
+          ],
+        },
+        {
+          date: "20-03-2024",
+          type: "Solo",
+          winner: "Yego",
           teams: [
             {
               teammates: "Ayoub",
@@ -142,13 +179,13 @@ export default {
             },
             {
               teammates: "Pika",
-              kills: 1,
-              killedBy: "No one",
+              kills: 0,
+              killedBy: "Yego",
             },
             {
               teammates: "Yego",
-              kills: 1,
-              killedBy: "Pika",
+              kills: 2,
+              killedBy: "No one",
             },
             {
               teammates: "Melda",

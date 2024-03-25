@@ -7,7 +7,7 @@
       justify-content: center;
       align-items: center;
       font-weight: bold;
-      color: #4a5568;
+      color: black;
     "
   >
     TSW's Minecraft Shenanigans

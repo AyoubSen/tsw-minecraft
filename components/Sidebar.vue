@@ -17,7 +17,7 @@
       <div v-for="item in navList" :key="item.id" class="mb-4">
         <div
           v-if="item.name"
-          class="navItem flex items-center gap-2 cursor-pointer p-3 rounded-xl text-slate-400 text-xl"
+          class="navItem flex items-center gap-2 cursor-pointer p-3 rounded-xl text-xl"
           :class="{ 'active-nav-item': $route.path === item.route }"
           @click="$router.push(item.route)"
         >
@@ -148,5 +148,8 @@ export default {
 }
 .navItem:active {
   background-color: #4a5568;
+}
+.navItem {
+  color: black;
 }
 </style>
